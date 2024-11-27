@@ -1,0 +1,1 @@
+{"uuid": "a9b0e227-42cc-4652-a027-1fdd36afc3e8", "children": ["bc750d02-32ea-481a-9630-42b753318cb5"], "befores": [{"name": "get_ingredients", "status": "passed", "steps": [{"name": "Метод получения заказов", "status": "passed", "start": 1727343445913, "stop": 1727343446995}], "start": 1727343445913, "stop": 1727343446995}], "start": 1727343445913, "stop": 1727343451195}
